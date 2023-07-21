@@ -1,0 +1,6 @@
+{
+  "cSpell.words": ["hexlify", "Keccak", "Merkle"],
+  "mochaExplorer.files": "test/**/*.ts",
+  "mochaExplorer.require": "hardhat/register",
+  "solidity.compileUsingRemoteVersion": "v0.8.4+commit.c7e474f2"
+}

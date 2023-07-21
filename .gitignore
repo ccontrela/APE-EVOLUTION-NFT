@@ -1,0 +1,14 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+bin
+deployment
+balances
+tx
+.cache
+
+#Hardhat files
+cache
+artifacts
